@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+
+
+#comentarios{
+    border: 2px solid black;
+}
+
+#texto{
+    border: 2px solid green;
+}
+
+#input{
+    border-radius: 5px;
+    color: red;
+    background-color: rgb(97, 249, 83);
+    font-size: 1.3rem;
+}
+
+#comentario{
+    font-size: 1.2rem;
+}
+
+#borrar{
+    margin-left: 10px;
+    border-radius: 5px;
+    color: red;
+    background-color: rgb(97, 249, 83);
+    font-size: 1.3rem;
+}
+
+/* header{
+    width: 70%;
+    height: 50%;
+} */
+
+.navidad{
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+}
+
+.form{
+    margin-left: 50px;
+    color: green;
+}
+
+.form input{
+    color: green;
+    border: 2px solid green;
+}
+
+.comentarios{
+    background-color: rgb(233, 144, 144);
+    padding: 5px;
+    border: 5px solid black;
+}
+p{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-color: rgb(134, 246, 134);
+    color: red;
+    font-family: 'Akaya Telivigala', cursive;
+    font-weight: 200;
+    font-size: 22px;
+}
